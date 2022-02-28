@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ejercicio01</string>
+    <string name="etPeso">Ingresar Su Peso</string>
+    <string name="etAltura">Ingresar Su Altura</string>
+</resources>
